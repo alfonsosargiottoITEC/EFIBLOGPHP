@@ -1,0 +1,63 @@
+
+.card-img-top {
+    width: 100%;
+    height: 25vw;
+    object-fit: cover;
+}
+.footer {
+    height: 20px;
+    margin-top: 400px;
+  }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+
+  .row { 
+    height: 50px;
+    
+  
+} 
+.parrafo {
+   
+    font-family: Helvetica;
+    color: #303030;
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 1px; 
+    
+}
+
+.postTitle {
+    font-family: Georgia, serif;
+    font-size: 50px;
+    letter-spacing: 0.4px;
+    word-spacing: 0px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: underline rgb(68, 68, 68);
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: none;
+}
+
+.generalTitle {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 45px;
+    letter-spacing: 0px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: rgb(68, 68, 68);
+    font-style: oblique;
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+.h1 {
+    text-align: center;
+}
